@@ -2275,4 +2275,5 @@
   /*
    * Other strange stuff.
    */
-  { "Isabella", 0x0b20, "Her Prototype", 0xddee, DEVICE_FLAG_NONE }
+  { "Isabella", 0x0b20, "Her Prototype", 0xddee, DEVICE_FLAG_NONE },
+  { "Nikon",  0x04b0, "D3200", 0x4244, DEVICE_FLAG_UNLOAD_DRIVER }
